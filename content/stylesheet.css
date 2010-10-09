@@ -1,9 +1,8 @@
-* {
+/** {
   margin: 0;
   padding: 0;
-
   font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
-}
+}*/
 
 body {
   background: #fff;
@@ -58,3 +57,6 @@ a:hover {
   line-height: 20px;
 }
 
+#droid {
+	font-family: 'Droid Sans', arial, sans-serif;
+}
