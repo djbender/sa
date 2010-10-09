@@ -22,9 +22,7 @@ a:hover {
 }
 
 #main {
-	position:absolute;
 	text-align: center;
-	width: 900px;
 	top: 100px;
 }
 
@@ -59,4 +57,9 @@ a:hover {
 
 #droid {
 	font-family: 'Droid Sans', arial, sans-serif;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.4);
+}
+
+.spoiler {
+	text-shadow: 1px 1px 1px rgba(0,0,0,0)
 }
